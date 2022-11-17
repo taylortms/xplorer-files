@@ -1,0 +1,370 @@
+Information for device Xbox 360 Wireless Receiver for Windows (VID=0x045E PID=0x0719):
+
+------------------------------
+Connection Information:
+------------------------------
+Device current bus speed: FullSpeed
+Device supports USB 1.1 specification
+Device supports USB 2.0 specification
+Device address: 0x0007
+Current configuration value: 0x01
+Number of open pipes: 16
+
+
+------------------------------
+Device Descriptor:
+------------------------------
+0x12	bLength
+0x01	bDescriptorType
+0x0200	bcdUSB
+0xFF	bDeviceClass      (Vendor specific)
+0xFF	bDeviceSubClass   
+0xFF	bDeviceProtocol   
+0x08	bMaxPacketSize0   (8 bytes)
+0x045E	idVendor
+0x0719	idProduct
+0x0100	bcdDevice
+0x01	iManufacturer
+0x02	iProduct     
+0x03	iSerialNumber
+0x01	bNumConfigurations
+
+
+-------------------------
+Configuration Descriptor:
+-------------------------
+0x09	bLength
+0x02	bDescriptorType
+0x0141	wTotalLength   (321 bytes)
+0x08	bNumInterfaces
+0x01	bConfigurationValue
+0x00	iConfiguration
+0xA0	bmAttributes   (Bus-powered Device, Remote-Wakeup)
+0x82	bMaxPower      (260 mA)
+
+Interface Descriptor:
+------------------------------
+0x09	bLength
+0x04	bDescriptorType
+0x00	bInterfaceNumber
+0x00	bAlternateSetting
+0x02	bNumEndPoints
+0xFF	bInterfaceClass      (Vendor specific)
+0x5D	bInterfaceSubClass   
+0x81	bInterfaceProtocol   
+0x00	iInterface
+
+Unknown Descriptor:
+------------------------------
+0x14	bLength
+0x22	bDescriptorType
+Hex dump: 
+0x14 0x22 0x00 0x01 0x13 0x81 0x1D 0x00 0x17 0x01 
+0x02 0x08 0x13 0x01 0x0C 0x00 0x0C 0x01 0x02 0x08 
+
+Endpoint Descriptor:
+------------------------------
+0x07	bLength
+0x05	bDescriptorType
+0x81	bEndpointAddress  (IN endpoint 1)
+0x03	bmAttributes      (Transfer: Interrupt / Synch: None / Usage: Data)
+0x0020	wMaxPacketSize    (1 x 32 bytes)
+0x01	bInterval         (1 frames)
+
+Endpoint Descriptor:
+------------------------------
+0x07	bLength
+0x05	bDescriptorType
+0x01	bEndpointAddress  (OUT endpoint 1)
+0x03	bmAttributes      (Transfer: Interrupt / Synch: None / Usage: Data)
+0x0020	wMaxPacketSize    (1 x 32 bytes)
+0x08	bInterval         (8 frames)
+
+Interface Descriptor:
+------------------------------
+0x09	bLength
+0x04	bDescriptorType
+0x01	bInterfaceNumber
+0x00	bAlternateSetting
+0x02	bNumEndPoints
+0xFF	bInterfaceClass      (Vendor specific)
+0x5D	bInterfaceSubClass   
+0x82	bInterfaceProtocol   
+0x00	iInterface
+
+Unknown Descriptor:
+------------------------------
+0x0C	bLength
+0x22	bDescriptorType
+Hex dump: 
+0x0C 0x22 0x00 0x01 0x01 0x82 0x00 0x40 0x01 0x02 
+0x20 0x00 
+
+Endpoint Descriptor:
+------------------------------
+0x07	bLength
+0x05	bDescriptorType
+0x82	bEndpointAddress  (IN endpoint 2)
+0x03	bmAttributes      (Transfer: Interrupt / Synch: None / Usage: Data)
+0x0020	wMaxPacketSize    (1 x 32 bytes)
+0x02	bInterval         (2 frames)
+
+Endpoint Descriptor:
+------------------------------
+0x07	bLength
+0x05	bDescriptorType
+0x02	bEndpointAddress  (OUT endpoint 2)
+0x03	bmAttributes      (Transfer: Interrupt / Synch: None / Usage: Data)
+0x0020	wMaxPacketSize    (1 x 32 bytes)
+0x04	bInterval         (4 frames)
+
+Interface Descriptor:
+------------------------------
+0x09	bLength
+0x04	bDescriptorType
+0x02	bInterfaceNumber
+0x00	bAlternateSetting
+0x02	bNumEndPoints
+0xFF	bInterfaceClass      (Vendor specific)
+0x5D	bInterfaceSubClass   
+0x81	bInterfaceProtocol   
+0x00	iInterface
+
+Unknown Descriptor:
+------------------------------
+0x14	bLength
+0x22	bDescriptorType
+Hex dump: 
+0x14 0x22 0x00 0x01 0x13 0x83 0x1D 0x00 0x17 0x01 
+0x02 0x08 0x13 0x03 0x0C 0x00 0x0C 0x01 0x02 0x08 
+
+Endpoint Descriptor:
+------------------------------
+0x07	bLength
+0x05	bDescriptorType
+0x83	bEndpointAddress  (IN endpoint 3)
+0x03	bmAttributes      (Transfer: Interrupt / Synch: None / Usage: Data)
+0x0020	wMaxPacketSize    (1 x 32 bytes)
+0x01	bInterval         (1 frames)
+
+Endpoint Descriptor:
+------------------------------
+0x07	bLength
+0x05	bDescriptorType
+0x03	bEndpointAddress  (OUT endpoint 3)
+0x03	bmAttributes      (Transfer: Interrupt / Synch: None / Usage: Data)
+0x0020	wMaxPacketSize    (1 x 32 bytes)
+0x08	bInterval         (8 frames)
+
+Interface Descriptor:
+------------------------------
+0x09	bLength
+0x04	bDescriptorType
+0x03	bInterfaceNumber
+0x00	bAlternateSetting
+0x02	bNumEndPoints
+0xFF	bInterfaceClass      (Vendor specific)
+0x5D	bInterfaceSubClass   
+0x82	bInterfaceProtocol   
+0x00	iInterface
+
+Unknown Descriptor:
+------------------------------
+0x0C	bLength
+0x22	bDescriptorType
+Hex dump: 
+0x0C 0x22 0x00 0x01 0x01 0x84 0x00 0x40 0x01 0x04 
+0x20 0x00 
+
+Endpoint Descriptor:
+------------------------------
+0x07	bLength
+0x05	bDescriptorType
+0x84	bEndpointAddress  (IN endpoint 4)
+0x03	bmAttributes      (Transfer: Interrupt / Synch: None / Usage: Data)
+0x0020	wMaxPacketSize    (1 x 32 bytes)
+0x02	bInterval         (2 frames)
+
+Endpoint Descriptor:
+------------------------------
+0x07	bLength
+0x05	bDescriptorType
+0x04	bEndpointAddress  (OUT endpoint 4)
+0x03	bmAttributes      (Transfer: Interrupt / Synch: None / Usage: Data)
+0x0020	wMaxPacketSize    (1 x 32 bytes)
+0x04	bInterval         (4 frames)
+
+Interface Descriptor:
+------------------------------
+0x09	bLength
+0x04	bDescriptorType
+0x04	bInterfaceNumber
+0x00	bAlternateSetting
+0x02	bNumEndPoints
+0xFF	bInterfaceClass      (Vendor specific)
+0x5D	bInterfaceSubClass   
+0x81	bInterfaceProtocol   
+0x00	iInterface
+
+Unknown Descriptor:
+------------------------------
+0x14	bLength
+0x22	bDescriptorType
+Hex dump: 
+0x14 0x22 0x00 0x01 0x13 0x85 0x1D 0x00 0x17 0x01 
+0x02 0x08 0x13 0x05 0x0C 0x00 0x0C 0x01 0x02 0x08 
+
+Endpoint Descriptor:
+------------------------------
+0x07	bLength
+0x05	bDescriptorType
+0x85	bEndpointAddress  (IN endpoint 5)
+0x03	bmAttributes      (Transfer: Interrupt / Synch: None / Usage: Data)
+0x0020	wMaxPacketSize    (1 x 32 bytes)
+0x01	bInterval         (1 frames)
+
+Endpoint Descriptor:
+------------------------------
+0x07	bLength
+0x05	bDescriptorType
+0x05	bEndpointAddress  (OUT endpoint 5)
+0x03	bmAttributes      (Transfer: Interrupt / Synch: None / Usage: Data)
+0x0020	wMaxPacketSize    (1 x 32 bytes)
+0x08	bInterval         (8 frames)
+
+Interface Descriptor:
+------------------------------
+0x09	bLength
+0x04	bDescriptorType
+0x05	bInterfaceNumber
+0x00	bAlternateSetting
+0x02	bNumEndPoints
+0xFF	bInterfaceClass      (Vendor specific)
+0x5D	bInterfaceSubClass   
+0x82	bInterfaceProtocol   
+0x00	iInterface
+
+Unknown Descriptor:
+------------------------------
+0x0C	bLength
+0x22	bDescriptorType
+Hex dump: 
+0x0C 0x22 0x00 0x01 0x01 0x86 0x00 0x40 0x01 0x06 
+0x20 0x00 
+
+Endpoint Descriptor:
+------------------------------
+0x07	bLength
+0x05	bDescriptorType
+0x86	bEndpointAddress  (IN endpoint 6)
+0x03	bmAttributes      (Transfer: Interrupt / Synch: None / Usage: Data)
+0x0020	wMaxPacketSize    (1 x 32 bytes)
+0x02	bInterval         (2 frames)
+
+Endpoint Descriptor:
+------------------------------
+0x07	bLength
+0x05	bDescriptorType
+0x06	bEndpointAddress  (OUT endpoint 6)
+0x03	bmAttributes      (Transfer: Interrupt / Synch: None / Usage: Data)
+0x0020	wMaxPacketSize    (1 x 32 bytes)
+0x04	bInterval         (4 frames)
+
+Interface Descriptor:
+------------------------------
+0x09	bLength
+0x04	bDescriptorType
+0x06	bInterfaceNumber
+0x00	bAlternateSetting
+0x02	bNumEndPoints
+0xFF	bInterfaceClass      (Vendor specific)
+0x5D	bInterfaceSubClass   
+0x81	bInterfaceProtocol   
+0x00	iInterface
+
+Unknown Descriptor:
+------------------------------
+0x14	bLength
+0x22	bDescriptorType
+Hex dump: 
+0x14 0x22 0x00 0x01 0x13 0x87 0x1D 0x00 0x17 0x01 
+0x02 0x08 0x13 0x07 0x0C 0x00 0x0C 0x01 0x02 0x08 
+
+Endpoint Descriptor:
+------------------------------
+0x07	bLength
+0x05	bDescriptorType
+0x87	bEndpointAddress  (IN endpoint 7)
+0x03	bmAttributes      (Transfer: Interrupt / Synch: None / Usage: Data)
+0x0020	wMaxPacketSize    (1 x 32 bytes)
+0x01	bInterval         (1 frames)
+
+Endpoint Descriptor:
+------------------------------
+0x07	bLength
+0x05	bDescriptorType
+0x07	bEndpointAddress  (OUT endpoint 7)
+0x03	bmAttributes      (Transfer: Interrupt / Synch: None / Usage: Data)
+0x0020	wMaxPacketSize    (1 x 32 bytes)
+0x08	bInterval         (8 frames)
+
+Interface Descriptor:
+------------------------------
+0x09	bLength
+0x04	bDescriptorType
+0x07	bInterfaceNumber
+0x00	bAlternateSetting
+0x02	bNumEndPoints
+0xFF	bInterfaceClass      (Vendor specific)
+0x5D	bInterfaceSubClass   
+0x82	bInterfaceProtocol   
+0x00	iInterface
+
+Unknown Descriptor:
+------------------------------
+0x0C	bLength
+0x22	bDescriptorType
+Hex dump: 
+0x0C 0x22 0x00 0x01 0x01 0x88 0x00 0x40 0x01 0x08 
+0x20 0x00 
+
+Endpoint Descriptor:
+------------------------------
+0x07	bLength
+0x05	bDescriptorType
+0x88	bEndpointAddress  (IN endpoint 8)
+0x03	bmAttributes      (Transfer: Interrupt / Synch: None / Usage: Data)
+0x0020	wMaxPacketSize    (1 x 32 bytes)
+0x02	bInterval         (2 frames)
+
+Endpoint Descriptor:
+------------------------------
+0x07	bLength
+0x05	bDescriptorType
+0x08	bEndpointAddress  (OUT endpoint 8)
+0x03	bmAttributes      (Transfer: Interrupt / Synch: None / Usage: Data)
+0x0020	wMaxPacketSize    (1 x 32 bytes)
+0x04	bInterval         (4 frames)
+
+Microsoft OS Descriptor is not available. Error code: 0x0000001F
+
+
+--------------------------------
+String Descriptor Table
+--------------------------------
+Index  LANGID  String
+0x00   0x0000  
+0x01   0x0000  "©Microsoft"
+0x02   0x0000  "Xbox 360 Wireless Receiver for Windows"
+0x03   0x0000  "00000000"
+
+------------------------------
+
+Connection path for device: 
+USB xHCI Compliant Host Controller
+Root Hub
+Xbox 360 Wireless Receiver for Windows (VID=0x045E PID=0x0719) Port: 13
+
+Running on: Windows 10 or greater (Build Version 19045)
+
+Brought to you by TDD v2.17.0, Feb 23 2021, 14:04:02
